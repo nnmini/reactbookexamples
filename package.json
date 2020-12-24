@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nnmini/reactbookexamples/issues"
   },
-  "homepage": "https://github.com/nnmini/reactbookexamples#readme"
+  "homepage": "https://github.com/nnmini/reactbookexamples#readme",
+  "dependencies": {
+    "react-icons": "^4.1.0"
+  }
 }
